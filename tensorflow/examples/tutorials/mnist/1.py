@@ -8,3 +8,5 @@ print(sess.run([node1, node2]))
 node3 = tf.add(node1, node2)
 print("node3: ", node3)
 print("sess.run(node3): ",sess.run(node3))
+
+?
